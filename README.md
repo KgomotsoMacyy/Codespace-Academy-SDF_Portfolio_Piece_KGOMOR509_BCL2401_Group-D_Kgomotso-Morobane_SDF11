@@ -16,3 +16,7 @@ Has to definitly be my Tailwind CSS, it was not a breeze but I could do better a
 
 Overall Learning Experience 
 This project provided an invaluable hands-on experience in applying CSS layout techniques, solidifying my comprehension of CSS and its practical applications in web development, it cemented my Tailwind CSS use.
+
+Links
+Presentation Slides:  https://docs.google.com/presentation/d/1Z2vSicSRbPE2nyRHgnnwBZCWiMivzfCVK4nZnXNGhIA/edit?usp=sharing
+Presentation Video :  https://www.loom.com/share/a1c034903edd4026a8605a7e85f9e20d?sid=47b73f62-e3a4-4e01-b89f-26b0bc0a43ac
